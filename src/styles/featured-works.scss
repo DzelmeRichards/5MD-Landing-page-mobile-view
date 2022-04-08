@@ -1,0 +1,57 @@
+.featured-works {
+    margin-left: 145px;
+    margin-right: 145px;
+}
+
+.featured-works__pic {
+    margin-bottom: 30px;
+}
+
+.featured-works__header {
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 60px;
+    margin-top: 15px;
+
+}
+
+.featured-works__description {
+    min-width: 344px;
+}
+
+.featured-works__year-line {
+    display: flex;
+    align-items: baseline;
+    gap: 26px;
+}
+
+.featured-works__year-container {
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 60px;
+    color: #FFFFFF;
+    background-color: #142850;
+    border-radius: 16px;
+    width: 62px;
+    height: 25px;
+}
+
+.featured-works__subtitle {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 44px;
+}
+
+.featured-works__type {
+    color: #8695A4;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+}
+
+.featured-works__paragraph {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+}
